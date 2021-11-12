@@ -1,5 +1,5 @@
 # Masters-projects
-Collection of the projects i've worked on in my time pursuing a masters degree in Computer Science. My thesis was majorly focused on generating graphs from degree sequences
+Projects i've worked on while pursuing a masters degree in Computer Science. My thesis was majorly focused on generating graphs from degree sequences
 A graph can be considered to be a collection of vertices/nodes and edges. The graphs that are going to be generated here specifically are labelled graphs with no multiple edges nor self loops. 
 * Graph generation can be understood as the process of constructing graphs of a given class. 
 * Graph generation can be used to create catalogues of graphs for making conjectures about classes of graphs, by generating examples of the class of graphs and observing them. Example: For the conjecture all regular graphs have Hamiltonian cycles, would call for generating examples of regular graphs and observing them. 
